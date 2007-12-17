@@ -10,7 +10,6 @@ Source:		%{name}-%{version}.tar.bz2
 URL:		http://developer.berlios.de/projects/pdi2iso/
 License:	GPL
 Group:		Archiving/Other
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description 
 PDI2ISO is a very simple utility to convert an instant copy bin image
