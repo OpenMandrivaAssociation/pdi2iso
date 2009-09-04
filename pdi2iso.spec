@@ -1,6 +1,6 @@
 %define name	pdi2iso
 %define version	0.1
-%define release	%mkrel 5
+%define release	%mkrel 6
 
 Name:		%{name}
 Version:	%{version}
