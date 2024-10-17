@@ -7,7 +7,7 @@ Version:	%{version}
 Release:	%{release}
 Summary:	Instant Copy CD Images to ISO
 Source:		%{name}-%{version}.tar.bz2
-URL:		http://developer.berlios.de/projects/pdi2iso/
+URL:		https://developer.berlios.de/projects/pdi2iso/
 License:	GPL
 Group:		Archiving/Other
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
